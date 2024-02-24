@@ -1,0 +1,119 @@
+@font-face {
+    font-family: 'Font-titlle';
+    src: url(./assets/fonts/young-serif/YoungSerif-Regular.ttf);
+}
+
+@font-face{
+    font-family:'Font-t2';
+    src:url(./assets/fonts/outfit/Outfit-VariableFont_wght.ttf)
+}
+
+
+body{
+    background-color:hsl(332, 48%, 94%)
+}
+
+.time2{
+    color:black;
+    font-weight:lighter
+}
+
+p{
+    font-family: 'Font-t2';
+    font-size:13px ;
+}
+
+
+
+#omelete{
+    width:550px;
+    height:300px;
+    border:2px solid #fff;
+    border-radius:20px
+}
+
+#conteudo{
+    border:2px solid #fff;
+    border-radius:30px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:100px;
+    margin-bottom: 100px;
+    background-color:#ffffff;
+    width:550px;
+    padding:30px
+}
+
+h1{
+    font-family:'Font-titlle';
+}
+
+#tabela-nutri{
+  border-spacing:0px;
+  width:550px
+}
+
+#tabela-nutri td#bot
+{
+    border-bottom:1px solid #dbd9d9
+}
+
+.cd{
+    color:hsl(32, 63%, 35%);
+    font-weight: bold; 
+    vertical-align:middle;
+    padding:5px
+}
+
+.ce{
+    text-align: justify;
+    text-indent: 30px;
+    vertical-align:middle;
+    padding:5px
+}
+
+#time{
+border: 1px solid hsl(330, 100%, 98%);
+border-radius:15px;
+background-color:hsl(330, 100%, 98%);
+padding:5px;
+}
+
+#title2{
+    font-family:'Font-t2';
+    font-size:15px;
+    font-weight:bold;
+    color:#74044e;
+    margin:5px
+}
+
+li{
+    margin-left:-20px;
+    color:hsl(32, 63%, 35%);
+    font-weight: bold;
+}
+
+
+
+span#lista{
+    font-family: 'Font-t2';
+    font-size:13px ;
+    font-weight:lighter;
+    color:black
+}
+
+h2{
+    color: hsl(32, 63%, 35%);
+    
+}
+
+#ingredientes{
+    border-bottom:1px solid #dbd9d9
+}
+
+#instrucoes{
+    border-bottom:1px solid #dbd9d9
+}
+
+
+
